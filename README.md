@@ -1,31 +1,115 @@
-# Hi, I'm Aniruddh Parmar
+<h1 align="center">Hi 👋, I'm Aniruddh Parmar</h1>
+<h3 align="center">🚀 Full Stack Developer | .NET | React | Node.js</h3>
 
-Email Me 👉 ✉️ **aniruddhp16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Mom Project (asp .net)
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aniruddh209) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniruddh209) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddh209) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aniruddh209) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniruddhp16@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aniruddh209&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aniruddh209&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh209&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="mailto:aniruddhp16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aniruddhp16@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/aniruddh209">
+    <img src="https://img.shields.io/badge/LinkedIn-Aniruddh%20Parmar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/aniruddh209">
+    <img src="https://img.shields.io/badge/Instagram-aniruddh209-purple?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://x.com/aniruddh209">
+    <img src="https://img.shields.io/badge/X-aniruddh209-black?style=for-the-badge&logo=twitter">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aniruddh209&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 👨‍💻 About Me
 
+- 🔭 Currently building **Minutes of Meeting (MoM) System using ASP.NET**
+- 🌱 Learning **Advanced React, System Design, and Cloud Deployment**
+- 💡 Interested in **Full Stack Development & AI Applications**
+- 🎯 Goal: Become a **Top Software Engineer**
+- 📍 Based in India
 
+---
 
+# 🚀 Tech Stack
 
+### 💻 Programming Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Frontend Development
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+
+### ⚙️ Backend Development
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
+
+### 🗄️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### ☁️ Deployment & Tools
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Azure](https://skillicons.dev/icons?i=azure)
+
+---
+
+# 📂 Featured Projects
+
+### 📝 MoM (Minutes of Meeting) System
+✔ Manage meetings  
+✔ Track discussion points  
+✔ Assign tasks to members  
+✔ Generate meeting summaries  
+
+Tech Stack:
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aniruddh209&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddh209&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh209&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddh209&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg">
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: **aniruddhp16@gmail.com**
+
+🌐 Social Links
+
+- LinkedIn: https://linkedin.com/in/aniruddh209
+- Instagram: https://instagram.com/aniruddh209
+- X: https://x.com/aniruddh209
+- Discord: https://discord.gg/aniruddh209
+
+---
+
+⭐ From [Aniruddh Parmar](https://github.com/aniruddh209)

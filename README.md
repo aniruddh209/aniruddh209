@@ -1,12 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm Aniruddh Parmar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Aniruddh%20Parmar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ASP.NET%20Developer%20|%20AI%20Builder&descAlignY=58&descSize=18"/>
 
-### 🚀 Full Stack Developer | ASP.NET | React | Node.js | Java
+# 👋 Hey, I'm Aniruddh Parmar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+%7C+React+%7C+Node.js;Building+Real+World+Projects;Learning+System+Design+%26+Cloud;Future+Top+Software+Engineer+🔥" />
+### 🚀 Full Stack Developer • ASP.NET Developer • AI Builder
 
-<img src="https://komarev.com/ghpvc/?username=aniruddh209&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Real+World+Applications+🚀;ASP.NET+%7C+React+%7C+Node.js+Developer;AI+Automation+%26+n8n+Builder;Creating+Scalable+Systems;Passionate+About+Modern+Web+Development;Future+Software+Engineer+🔥" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniruddh209&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/aniruddh209?style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/aniruddh209?style=for-the-badge&color=0ea5e9" />
+</p>
 
 </div>
 
@@ -14,14 +20,32 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ4M3M3cTQ0cWg0dTBhMnM5eHkwcTFqNnQ0djN4dTJ3dml6MXc4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently working on **Minutes of Meeting (MoM) System**
-- 🌱 Learning **Advanced React, Cloud Deployment & System Design**
-- 💡 Passionate about **Full Stack Development & AI**
-- 🎯 Goal: Become a **Top Software Engineer**
-- ⚡ Love building modern web applications
-- 📍 Based in India
+💻 Full Stack Developer passionate about building modern and scalable applications.
+
+🚀 Currently working on:
+- Uber Clone System
+- Bag Shopping E-Commerce Platform
+- Minutes of Meeting (MoM) System
+- AI Based Applications
+- n8n Automation Workflows
+
+🌱 Currently learning:
+- Advanced React Architecture
+- System Design
+- Cloud Deployment
+- AI Integrations & Automation
+
+⚡ What I love:
+- Building production-ready systems
+- Backend architecture
+- Modern UI/UX
+- API Development
+- AI + Automation
+
+🎯 Mission:
+> To become a world-class Software Engineer and build impactful products.
 
 ---
 
@@ -49,73 +73,76 @@
 
 ---
 
-# 💻 Tech Stack
-
-## 🚀 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-## 🎨 Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
-</p>
-
-## ⚙️ Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-</p>
-
-## 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-## ☁️ Tools & Deployment
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,azure,vscode" />
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 📝 Minutes of Meeting (MoM) System
-
-✨ Features:
-- Manage Meetings
-- Track Discussion Points
-- Assign Tasks
-- Generate Meeting Summaries
-- Modern Dashboard UI
-- Authentication & Role Management
-
-### 🛠 Tech Used
-
-```txt
-ASP.NET • SQL Server • React • Bootstrap • REST API
-```
-
----
-
-# 📊 GitHub Stats
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniruddh209&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddh209&theme=tokyonight&hide_border=true"/>
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+
+## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+## ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,azure,vscode,postman" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚖 Uber Clone System
+✔ Real-time ride booking  
+✔ Authentication system  
+✔ Location & route features  
+✔ Modern responsive UI  
+
+---
+
+## 🛍️ Bag Shopping E-Commerce System
+✔ Product management  
+✔ Shopping cart & checkout  
+✔ Admin dashboard  
+✔ Secure backend APIs  
+
+---
+
+## 🤖 AI + n8n Automation Systems
+✔ AI workflow automation  
+✔ Automated business processes  
+✔ API integrations  
+✔ Smart productivity systems  
+
+---
+
+## 📝 Minutes of Meeting (MoM) System
+✔ Meeting management  
+✔ Task assignment  
+✔ Discussion tracking  
+✔ Summary generation  
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniruddh209&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddh209&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh209&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh209&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -125,7 +152,7 @@ ASP.NET • SQL Server • React • Bootstrap • REST API
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddh209&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddh209&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -141,16 +168,24 @@ ASP.NET • SQL Server • React • Bootstrap • REST API
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Developer Quote
+
+<div align="center">
 
 ```txt
-I love turning ideas into real-world applications 🚀
+Code. Build. Learn. Repeat. 🚀
 ```
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## ⭐ Thanks for Visiting My Profile ⭐
+
+### 💙 Let's Build Something Amazing Together
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>

@@ -4,10 +4,9 @@
 
 <h2>Full Stack Developer</h2>
 
-<p width="700">
-Building scalable backend systems, modern frontend applications, AI-powered solutions,
-and automation workflows using React, Node.js, Express.js, ASP.NET Core, MongoDB,
-and cloud technologies.
+<p>
+Building scalable backend systems, modern frontend applications,
+AI-powered solutions, and automation workflows using modern technologies.
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=ASP.NET+Core+Developer;React+%26+Node.js+Developer;Building+Production+Ready+Applications;AI+Automation+%26+n8n+Workflows;REST+API+%26+Backend+Systems;Cloud+%26+Scalable+Architecture" />
@@ -37,23 +36,16 @@ Focus       : Backend Systems & AI Automation
 Location    : India
 ```
 
-I develop modern full stack applications with scalable backend architecture,
-clean frontend interfaces, secure APIs, database systems, and AI integrations.
+I build modern full stack applications with scalable architecture,
+secure backend systems, REST APIs, modern UI interfaces,
+AI-powered workflows, and cloud-ready deployment systems.
 
 Currently working on:
 - Uber Clone Platform
 - Bag Shopping E-Commerce System
 - Minutes of Meeting (MoM) System
 - AI Applications
-- n8n Automation Systems
-
-Interested in:
-- System Design
-- Scalable Backend Architecture
-- REST APIs
-- AI Automation
-- Cloud Deployment
-- Full Stack Engineering
+- n8n Automation Workflows
 
 ---
 
@@ -85,31 +77,31 @@ Interested in:
 
 <div align="center">
 
-### Frontend Technologies
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,javascript,typescript" />
 
 ---
 
-### Backend Technologies
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
 
 ---
 
-### Database Technologies
+### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ---
 
-### Cloud & Dev Tools
+### Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,azure,vercel,netlify,vscode,postman" />
 
 ---
 
-### Programming Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 
@@ -123,39 +115,37 @@ Interested in:
 
 - Real-time ride booking system
 - Authentication & authorization
-- Maps & route integration
-- Responsive frontend architecture
+- Maps integration
 - Backend API integration
+- Responsive frontend
 
 ---
 
 ## Bag Shopping E-Commerce System
 
-- Product management system
+- Product management
 - Shopping cart & checkout
 - Admin dashboard
-- Secure authentication
-- Order management APIs
+- Secure backend APIs
+- Order management
 
 ---
 
 ## AI Automation Systems
 
-- AI-powered workflow systems
-- n8n automation workflows
+- AI workflow systems
+- n8n automation
 - API orchestration
 - Business process automation
-- AI integrations
 
 ---
 
 ## Minutes of Meeting (MoM) System
 
-- Meeting management system
-- Task assignment workflows
+- Meeting management
+- Task assignment
 - Discussion tracking
-- Meeting summary generation
-- Role-based access
+- Summary generation
 
 ---
 
@@ -173,9 +163,9 @@ Interested in:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddh209&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=2563eb&title_color=ffffff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddh209&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddh209&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563eb&fire=2563eb&currStreakLabel=ffffff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddh209&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -183,7 +173,7 @@ Interested in:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh209&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh209&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -193,7 +183,7 @@ Interested in:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddh209&theme=github-dark&hide_border=true&radius=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddh209&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -213,7 +203,7 @@ Interested in:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aniruddh209&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aniruddh209&theme=darkhub&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -225,7 +215,7 @@ Interested in:
 
 ```txt
 Clean Architecture
-Scalable Systems
+Scalable Backend Systems
 Production Ready Code
 Modern User Experience
 Continuous Learning
@@ -233,55 +223,4 @@ Continuous Learning
 
 </div>
 
----
-
-# Profile Workflow Setup
-
-Create this file:
-
-```txt
-.github/workflows/snake.yml
-```
-
-Add this code:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aniruddh209
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-<div align="center">
-
-<h3>
-Building modern applications with scalable technologies and clean architecture.
-</h3>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer"/>**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer"/>

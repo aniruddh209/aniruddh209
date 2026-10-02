@@ -181,4 +181,3 @@ Currently working on:
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer"/>

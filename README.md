@@ -179,48 +179,6 @@ Currently working on:
 
 ---
 
-# Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddh209&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aniruddh209/aniruddh209/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniruddh209&theme=darkhub&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# Development Philosophy
-
-<div align="center">
-
-```txt
-Clean Architecture
-Scalable Backend Systems
-Production Ready Code
-Modern User Experience
-Continuous Learning
-```
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer"/>
